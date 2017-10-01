@@ -1,5 +1,5 @@
 # LY: I'm using the in built R data set of Pima Indians Diabetes so diabetes(outcome) is alr of type factor #
-
+# testing 123 
 dat <- PimaIndiansDiabetes
 ## Checking classes of various columns in dataset
 str(dat)
